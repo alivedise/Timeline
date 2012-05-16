@@ -26,8 +26,8 @@
             {
 				"startDate":"2010,10",
 				"endDate":"2011,12",
-				"headline":"My first full web application project of NVR",
-                "text":"Code Name: Naxx",
+				"text":"My first full web application project of NVR",
+                "headline":"Project Name: Naxx",
                 "asset":
                 {
                     "media":"images/naxx.jpg",
@@ -37,20 +37,53 @@
             },
             {
 				"startDate":"2010,07",
-				"headline":"Application and library transformer from Anubis to SnapGear",
-                "text":"Code Name: Astraea",
+				"text":"Application and library transformer from Anubis to SnapGear",
+                "headline":"Project Name: Astraea",
                 "asset":
                 {
-                    "media":"http://www.mallorcaweb.net/masm/Astraea/Astraea.GIF",
+                    "media":"images/astraea.jpg",
                     "credit":"Written with Perl",
+                    "caption":""
+                }
+			},
+            {
+				"startDate":"2011,02",
+				"text":"Dbus/Gconf based linux configuration manager about network, time, and user",
+                "headline":"Project Name: Raphael",
+                "asset":
+                {
+                    "media":"images/raphael.jpg",
+                    "credit":"Written with Python",
+                    "caption":""
+                }
+			},
+            {
+				"startDate":"2011,05",
+				"text":"Tunnel message client between NVR and cameras",
+                "headline":"Project Name: Harute",
+                "asset":
+                {
+                    "media":"images/harute.jpg",
+                    "credit":"Written with Python",
+                    "caption":""
+                }
+			},
+            {
+				"startDate":"2011,07",
+				"text":"Tunnel message client between NVR and CMS",
+                "headline":"Project Name: Quanta",
+                "asset":
+                {
+                    "media":"images/quanta.png",
+                    "credit":"Written with Python",
                     "caption":""
                 }
 			},
             {
 				"startDate":"2011,01",
 				"endDate":"2011,03",
-				"headline":"Web 2.5D E-Map",
-                "text":"Code Name: ?",
+				"text":"Web 2.5D E-Map",
+                "headline":"Project Name: ?",
                 "asset":
                 {
                     "media":"http://www.youtube.com/watch?v=dzqHPvF4jGs",
@@ -60,8 +93,8 @@
 			},
             {
                 "startDate":"2012,3",
-				"headline":"FF13-2 Timeline puzzle creator",
-                "text":"Code Name: Eimorhc",
+				"text":"FF13-2 Timeline puzzle creator",
+                "headline":"Project Name: Eimorhc",
                 "asset":
                 {
                     "media":"http://alivedise.github.com/Eimorhc/",
@@ -71,8 +104,8 @@
             },
             {
                 "startDate":"2012,3",
-                "headline":"FF13-2 Timeline synchronizor",
-                "text":"Code Name: Chromie",
+                "text":"FF13-2 Timeline synchronizor",
+                "headline":"Project Name: Chromie",
                 "asset":
                 {
                     "media":"http://alivedise.github.com/chromie/",
