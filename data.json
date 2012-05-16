@@ -3,17 +3,17 @@
     {
         "headline":"Alive C Kuo",
         "type":"default",
-		"startDate":"2012,5",
+		"startDate":"2010,1",
 		"text":"<i><span class='c1'>Front end engineer</span> & <span class='c2'>Javascript Newbie<span></i>",
 		"asset":
         {
-            "media":"assets/img/notes.png",
+            "media":"http://alivedise.github.com",
             "credit":"<a href='http://dribbble.com/shots/221641-iOS-Icon'>iOS Icon by Asher</a>",
             "caption":""
         },
         "date": [
             {
-                "startDate":"2009,2",
+                "startDate":"2010,2",
                 "headline":"My first experiment in time-lapse photography",
                 "text":"Nature at its finest in this video.",
                 "asset":
