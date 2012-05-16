@@ -24,13 +24,48 @@
 				}
 			},
             {
+				"startDate":"2010,10",
+				"endDate":"2011,12",
+				"headline":"My first full web application project of NVR",
+                "text":"Code Name: Naxx",
+                "asset":
+                {
+                    "media":"images/naxx.jpg",
+                    "credit":"Written with javascript and jQuery Widget",
+                    "caption":""
+                }
+            },
+            {
+				"startDate":"2010,07",
+				"headline":"Application and library transformer from Anubis to SnapGear",
+                "text":"Code Name: Astraea",
+                "asset":
+                {
+                    "media":"http://www.mallorcaweb.net/masm/Astraea/Astraea.GIF",
+                    "credit":"Written with Perl",
+                    "caption":""
+                }
+			},
+            {
+				"startDate":"2011,01",
+				"endDate":"2011,03",
+				"headline":"Web 2.5D E-Map",
+                "text":"Code Name: ?",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=dzqHPvF4jGs",
+                    "credit":"Written with Three.js",
+                    "caption":""
+                }
+			},
+            {
                 "startDate":"2012,3",
 				"headline":"FF13-2 Timeline puzzle creator",
                 "text":"Code Name: Eimorhc",
                 "asset":
                 {
                     "media":"http://alivedise.github.com/Eimorhc/",
-                    "credit":"",
+                    "credit":"Written with jmvc",
                     "caption":""
                 }
             },
@@ -41,7 +76,7 @@
                 "asset":
                 {
                     "media":"http://alivedise.github.com/chromie/",
-                    "credit":"",
+                    "credit":"Written with jmvc",
                     "caption":""
                 }
             }
