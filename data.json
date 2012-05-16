@@ -1,7 +1,7 @@
 {
     "timeline":
     {
-        "headline":"Alive C Kuo",
+        "headline":"Alive C. Kuo",
         "type":"default",
 		"startDate":"2010,1",
 		"text":"<i><span class='c1'>Front end engineer</span> & <span class='c2'>Javascript Newbie<span></i>",
@@ -15,10 +15,10 @@
 			{
 				"startDate":"2012,1",
 				"endDate":"2012,4",
-				"headline":"My client-side MVC framework upon javascriptMVC",
-				"text":"Code Name: Banshee",
+				"text":"My client-side MVC framework upon javascriptMVC",
+				"headline":"Project Name: Banshee",
 				"asset":{
-					"media":"http://www.gunjap.net/site/wp-content/uploads/2012/03/1.jpeg",
+					"media":"http://i.imgur.com/ZiJz0.jpg",
 					"credit":"",
 					"caption":""
 				}
