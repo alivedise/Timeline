@@ -1,11 +1,10 @@
-
 {
     "timeline":
     {
-        "headline":"Johnny B Goode",
+        "headline":"Alive C Kuo",
         "type":"default",
-		"startDate":"2009,1",
-		"text":"<i><span class='c1'>Designer</span> & <span class='c2'>Developer</span></i>",
+		"startDate":"2012,5",
+		"text":"<i><span class='c1'>Front end engineer</span> & <span class='c2'>Javascript Newbie<span></i>",
 		"asset":
         {
             "media":"assets/img/notes.png",
