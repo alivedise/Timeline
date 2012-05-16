@@ -41,7 +41,7 @@
                 "headline":"Project Name: Astraea",
                 "asset":
                 {
-                    "media":"images/astraea.jpg",
+                    "media":"images/astraea_code.png",
                     "credit":"Written with Perl",
                     "caption":""
                 }
@@ -52,7 +52,7 @@
                 "headline":"Project Name: Raphael",
                 "asset":
                 {
-                    "media":"images/raphael.jpg",
+                    "media":"images/raphael_code.png",
                     "credit":"Written with Python",
                     "caption":""
                 }
@@ -63,7 +63,7 @@
                 "headline":"Project Name: Harute",
                 "asset":
                 {
-                    "media":"images/harute.jpg",
+                    "media":"images/harute_code.png",
                     "credit":"Written with Python",
                     "caption":""
                 }
@@ -74,7 +74,7 @@
                 "headline":"Project Name: Quanta",
                 "asset":
                 {
-                    "media":"images/quanta.png",
+                    "media":"images/quanta_code.png",
                     "credit":"Written with Python",
                     "caption":""
                 }
