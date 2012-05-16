@@ -12,90 +12,35 @@
             "caption":"My github pages, something about front end"
         },
         "date": [
+			{
+				"startDate":"2012,1",
+				"endDate":"2012,4",
+				"headline":"My client-side MVC framework upon javascriptMVC",
+				"text":"Code Name: Banshee",
+				"asset":{
+					"media":"http://www.gunjap.net/site/wp-content/uploads/2012/03/1.jpeg",
+					"credit":"",
+					"caption":""
+				}
+			},
             {
-                "startDate":"2010,2",
-                "headline":"My first experiment in time-lapse photography",
-                "text":"Nature at its finest in this video.",
+                "startDate":"2012,3",
+				"headline":"FF13-2 Timeline puzzle creator",
+                "text":"Code Name: Eimorhc",
                 "asset":
                 {
-                    "media":"http://vimeo.com/22439234",
+                    "media":"http://alivedise.github.com/Eimorhc/",
                     "credit":"",
                     "caption":""
                 }
             },
             {
-                "startDate":"2009,5",
-                "headline":"Redesign of my portfolio",
-                "text":"",
+                "startDate":"2012,3",
+                "headline":"FF13-2 Timeline synchronizor",
+                "text":"Code Name: Chromie",
                 "asset":
                 {
-                    "media":"http://dribbble.com/system/users/5977/screenshots/401334/sidebar_s3.png?1327615765",
-                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2009,7",
-                "headline":"Another time-lapse experiment",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://vimeo.com/23237102",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2009,10",
-                "headline":"Developed a Gmail Client",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://dribbble.com/system/users/2559/screenshots/120088/shot_1298590416.jpg?1309796199",
-                    "credit":"<a href='http://dribbble.com/shots/120088-Gmail-Pokki-Final-Ui'>by Justalab</a>",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2010,3",
-                "headline":"Logo Design for a pet shop",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://dribbble.com/system/users/58661/screenshots/444003/pet___you.png?1330172683",
-                    "credit":"<a href='http://dribbble.com/shots/444003-Pet-You'>by Nikita Lebedev</a>",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2010,4",
-                "headline":"Developed an iPad newspaper application",
-                "text":"It was a challenge to create both the design and code in a week.",
-                "asset":
-                {
-                    "media":"http://dribbble.com/system/users/14521/screenshots/228267/proto_v4_decoupe_2.png?1324546898",
-                    "credit":"<a href='http://dribbble.com/shots/228267-Swiss-newspaper-reader-app-for-iPad-UI-UX-iOS'>by Jonathan Moreira</a>",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2010,8",
-                "headline":"Illustration for a big client.",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://dribbble.com/system/users/13307/screenshots/366400/chameleon.jpg?1328028363",
-                    "credit":"<a href='http://dribbble.com/shots/366400-Chameleon'>Chameleon by Mike</a>",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2010,12",
-                "headline":"Advert for Volkswagen",
-                "text":"Created the website for their new advertising campaign.",
-                "asset":
-                {
-                    "media":"http://www.youtube.com/watch?v=0-9EYFJ4Clo",
+                    "media":"http://alivedise.github.com/chromie/",
                     "credit":"",
                     "caption":""
                 }
